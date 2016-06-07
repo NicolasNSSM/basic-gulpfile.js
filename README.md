@@ -1,5 +1,5 @@
 # basic-gulpfile.js
-Just a basic gulpfile.js for scss (sass) projects
+Just a basic gulpfile.js for bootstrap scss (sass) projects
 
 Source folders are in dist.
 Public folders are in... public.

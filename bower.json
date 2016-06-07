@@ -1,0 +1,20 @@
+{
+  "name": "CmsBundle",
+  "homepage": "https://github.com/nnussbaum",
+  "authors": [
+    "Nicolas NSSM"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6"
+  }
+}

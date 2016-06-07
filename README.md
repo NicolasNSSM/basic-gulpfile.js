@@ -15,6 +15,11 @@ Install gulp plugins
 $ npm install
 ```
 
+Gulpify your project
+```shell
+$ gulp
+```
+
 Watch your work!
 ```shell
 $ gulp watcher
